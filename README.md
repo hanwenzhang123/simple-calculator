@@ -1,2 +1,2 @@
 # calculator
-sum calculator and bmi calculator
+sum calculator and bmi calculator (node & express)
