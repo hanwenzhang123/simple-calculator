@@ -1,2 +1,2 @@
 # calculator
-sum calculator and bmi calculator (node & express)
+A simple sum calculator and a simple BMI calculator by using Node.js & Express.js.
